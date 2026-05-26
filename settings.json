@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dragonzkey.aternos.me:52493",
+    "ip": "Dragonzkey.aternos.me",
     "port": 52493,
     "version": "1.21.11",
     "try-creative": false
